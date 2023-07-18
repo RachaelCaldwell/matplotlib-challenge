@@ -21,7 +21,7 @@ The following data visualizations were created:<br><br>
 
 **Line Plot**
 * Tumor volume versus the timepoint for Capomulin treatment of mouse 1509
-
+![image](https://github.com/RachaelCaldwell/matplotlib-challenge/blob/main/Pymaceuticals/images/Line%20Plot.png?raw=true)
 
 **Scatter Plot**
 * Tumor volume versus mouse wieght for the entire Capomulin regimen
