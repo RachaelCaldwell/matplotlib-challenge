@@ -17,7 +17,7 @@ The following data visualizations were created:<br><br>
 
 **Box Plot**
 * Final tumor volume for four specific treatment regimens
-
+![image](https://github.com/RachaelCaldwell/matplotlib-challenge/blob/main/Pymaceuticals/images/Box%20Plot.png)
 
 **Line Plot**
 * Tumor volume versus the timepoint for Capomulin treatment of mouse 1509
