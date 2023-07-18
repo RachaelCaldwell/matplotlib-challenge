@@ -13,6 +13,7 @@ The following data visualizations were created:<br><br>
 
 **Pie Chart**
 * Gender distribution of mice in the study
+![image](https://github.com/RachaelCaldwell/matplotlib-challenge/blob/main/Pymaceuticals/images/Pie%20Chart.png?raw=true) <br>
 
 **Box Plot**
 * Final tumor volume for four specific treatment regimens
