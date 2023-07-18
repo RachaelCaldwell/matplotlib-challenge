@@ -1,5 +1,6 @@
 # matplotlib-challenge
 The Module 5 Challenge uses Matplotlib to generate tables and figures needed for the technical report of a skin cancer clinical study for Pymaceuticals Inc.
+
 In this study, 249 mice identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
 The following data visualizations were created:<br><br>
