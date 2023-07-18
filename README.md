@@ -17,7 +17,7 @@ The following data visualizations were created:<br><br>
 ![image](https://github.com/RachaelCaldwell/matplotlib-challenge/blob/main/Pymaceuticals/images/Pie%20Chart.png?raw=true) <br>
 
 **Box Plot**
-* Final tumor volume for four specific treatment regimens
+* Final tumor volume for four specific treatment regimens <br>
 ![image](https://github.com/RachaelCaldwell/matplotlib-challenge/blob/main/Pymaceuticals/images/Box%20Plot.png)
 
 **Line Plot**
