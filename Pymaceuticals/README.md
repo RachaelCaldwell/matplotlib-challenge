@@ -23,9 +23,5 @@ The following data visualizations were created:<br><br>
 * Tumor volume versus the timepoint for Capomulin treatment of mouse 1509
 ![image](https://github.com/RachaelCaldwell/matplotlib-challenge/blob/main/Pymaceuticals/images/Line%20Plot.png?raw=true)
 
-**Scatter Plot**
-* Tumor volume versus mouse wieght for the entire Capomulin regimen
-
-
-**Linear Regression Model**
+**Scatter Plot/Linear Regression Model**
 * Relationship between mouse weight and average tumor volume for the Capomulin treatment
