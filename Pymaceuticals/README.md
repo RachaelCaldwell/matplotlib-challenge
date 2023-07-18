@@ -4,6 +4,7 @@ In this study, 249 mice identified with SCC tumors received treatment with a ran
 
 The following data visualizations were created:
 * Summary Statistics DataFrame
+![image](https://github.com/RachaelCaldwell/matplotlib-challenge/blob/main/Pymaceuticals/images/Summary%20Statistics.png)
 * Bar Chart displaying the total number of timepoints for all mice tested for each drug regimen throughout the course of the study.
 * Pie Chart displaying the gender distribution of mice in the study.
 * Box Plot displaying the final tumor volume for four specific treatment regimens.
