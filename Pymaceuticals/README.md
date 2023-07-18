@@ -12,7 +12,7 @@ The following data visualizations were created:<br><br>
 ![image](https://github.com/RachaelCaldwell/matplotlib-challenge/blob/main/Pymaceuticals/images/Bar%20Chart.png?raw=true) <br>
 
 **Pie Chart**
-* Gender distribution of mice in the study
+* Gender distribution of mice in the study <br>
 ![image](https://github.com/RachaelCaldwell/matplotlib-challenge/blob/main/Pymaceuticals/images/Pie%20Chart.png?raw=true) <br>
 
 **Box Plot**
