@@ -25,3 +25,4 @@ The following data visualizations were created:<br><br>
 
 **Scatter Plot/Linear Regression Model**
 * Relationship between mouse weight and average tumor volume for the Capomulin treatment
+![image](https://github.com/RachaelCaldwell/matplotlib-challenge/blob/main/Pymaceuticals/images/Correlation%20and%20Regression%20Chart.png?raw=true)
